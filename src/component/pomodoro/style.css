@@ -1,5 +1,5 @@
 .timer{
-    margin-top: 20px;
+    margin-top: 50px;
     width: 250px;
     height: 250px;
     background-color: rgb(30, 29, 29);
@@ -8,4 +8,13 @@
     color: white;
     display: grid;
     place-items: center;
+}
+
+.buttonStyle{
+    background-color: rgb(30, 29, 29);
+    cursor: pointer;
+    position: relative;
+    border: 0px;
+    color: rgb(193, 141, 46);
+    font-size: 1.5em;
 }
